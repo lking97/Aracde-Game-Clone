@@ -1,0 +1,16 @@
+body {
+    text-align: center;
+    background-image: url('../images/GAME.png');
+    position: fixed;
+    top: 0;
+    left: 0;
+
+    /* Preserve aspet ratio */
+    min-width: 100%;
+    min-height: 100%;
+}
+
+h1 {
+    font-family: 'Press Start 2P', cursive, arial, sans-serif;
+    color: #0f8400;
+}
